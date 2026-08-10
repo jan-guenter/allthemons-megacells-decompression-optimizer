@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8.7",
+  "package": "io.github.janguenter.atmonsmegacellsoptimizer.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "server": [
+    "DecompressionServiceMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
